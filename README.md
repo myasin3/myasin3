@@ -12,8 +12,8 @@ Passionate about building innovative solutions that merge hardware, software, an
 
 | Repository | Description |
 |------------|-------------|
-| [**Wi-SnakeBot**](https://github.com/YourGitHubUsername/Wi-SnakeBot) | 🐍 Wi-Fi enabled surveillance robot powered by ESP32 for real-time human detection and remote control. |
-| [**SmartGuide Necklace**](https://github.com/YourGitHubUsername/SmartGuide-Necklace) | 👁️ Assistive tech for the visually impaired using ultrasonic sensors for navigation. |
+| [**Wi-SnakeBot**](https://github.com/myasin3e/Wi-SnakeBot) | 🐍 Wi-Fi enabled surveillance robot powered by ESP32 for real-time human detection and remote control. |
+| [**SmartGuide Necklace**](https://github.com/myasin3/SmartGuide-Necklace) | 👁️ Assistive tech for the visually impaired using ultrasonic sensors for navigation. |
 
 ---
 
